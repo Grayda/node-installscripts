@@ -16,9 +16,10 @@ If a version of node you're after isn't listed here, you can add it like so:
 
 1. Make sure you've got node installed
 2. Fork this repo, then clone your fork
-3. Install `gulp` with `npm install -g gulp`
-4. Run `gulp generate`
-5. Commit your changes, then open a PR.
+3. Run `npm install` to install dependencies
+4. Install `gulp` with `npm install -g gulp`
+5. Run `gulp generate`
+6. Commit your changes, then open a PR.
 
 ## A word about security
 
