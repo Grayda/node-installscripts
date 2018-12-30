@@ -17,6 +17,7 @@ gulp.task('generate', function(done) {
   var latestTemplate = fs.readFileSync("./templates/install-node-latest.txt", "utf8")
   gutil.log("Requesting all node versions..")
   GetNodeVersions.parse(["all"]).then(function(versions) {
+    gutil.log(gutil.colors.blue("Found " + versions.length + " versions"))
     architectures.forEach(function(architecture) {
       fs.writeFileSync("README-" + architecture + ".md", readmeTemplate)
       if(!fs.existsSync(architecture)) {
@@ -29,7 +30,8 @@ gulp.task('generate', function(done) {
           port: 80,
           path: '/dist/v' + version + "/node-v" + version + "-linux-" + architecture + ".tar.gz"
         }
-        req = http.request(options, function(r, err) {
+
+        var req = http.request(options, function(r, err) {
           if (r.statusCode == "200") {
             gutil.log(gutil.colors.green("v" + version + " has an " + architecture + " build. Writing install script.."))
             validVersions.push(version)
@@ -39,8 +41,9 @@ gulp.task('generate', function(done) {
             next(null, null)
           }
         });
-        req.end();
+        if(typeof req != 'undefined') { req.end() }
       }, function() {
+        if(typeof req != 'undefined') { req.end() }
         fs.appendFileSync("README-" + architecture + ".md", ["\n", "## Node for " + architecture, "", ""].join("\n"))
         fs.writeFileSync("./" + architecture + "/install-node-latest.sh", latestTemplate.replace(/@@ARCH@@/g, architecture).replace(/@@MIRROR@@/g, GetNodeVersions.NODEJS_MIRROR))
         semverSort.desc(validVersions).forEach(function(version) {
