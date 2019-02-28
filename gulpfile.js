@@ -41,13 +41,18 @@ gulp.task('generate', function(done) {
             next(null, null)
           }
         });
+
+        req.on('error', function() {
+            gutil.log(gutil.colors.red("Error trying to get v" + version + " (" + architecture + ")"))
+            req.end()
+        })
         if(typeof req != 'undefined') { req.end() }
       }, function() {
         if(typeof req != 'undefined') { req.end() }
         fs.appendFileSync("README-" + architecture + ".md", ["\n", "## Node for " + architecture, "", ""].join("\n"))
         fs.writeFileSync("./" + architecture + "/install-node-latest.sh", latestTemplate.replace(/@@ARCH@@/g, architecture).replace(/@@MIRROR@@/g, GetNodeVersions.NODEJS_MIRROR))
         semverSort.desc(validVersions).forEach(function(version) {
-          gutil.log("Writing " + version + " to file")
+          gutil.log("Writing " + version + " (" + architecture + ") to file")
           fs.writeFileSync("./" + architecture + "/install-node-v" + version + ".sh", template.replace(/@@VERSION@@/g, version).replace(/@@ARCH@@/g, architecture).replace(/@@MIRROR@@/g, GetNodeVersions.NODEJS_MIRROR))
           fs.appendFileSync("README-" + architecture + ".md", ["### " + architecture + ": v" + version, "", "```sh", "wget https://raw.githubusercontent.com/" + username + "/" + reponame + "/master/" + architecture + "/install-node-v" + version + ".sh -O /tmp/install-node-v" + version + ".sh && source /tmp/install-node-v" + version + ".sh", "```", "", ""].join("\n"))
         })

@@ -1,14 +1,14 @@
 {
-  "name": "node-pi-zero",
+  "name": "node-installscripts",
   "version": "1.0.0",
-  "description": "Generates scripts to install node.js for Raspberry Pi Zero",
+  "description": "Generates scripts to install node.js for various platforms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Grayda/node-pi-zero.git"
+    "url": "git+https://github.com/Grayda/node-installscripts.git"
   },
   "keywords": [
     "raspberry",
@@ -20,11 +20,11 @@
   ],
   "author": "David Gray and Steven de Salas",
   "bugs": {
-    "url": "https://github.com/Grayda/node-pi-zero/issues"
+    "url": "https://github.com/Grayda/node-installscripts/issues"
   },
-  "homepage": "https://github.com/Grayda/node-pi-zero#readme",
+  "homepage": "https://github.com/Grayda/node-installscripts#readme",
   "dependencies": {
-    "async": "^2.3.0",
+    "async": "^2.6.2",
     "get-node-versions": "^1.0.2",
     "gulp": "^4.0.0",
     "gulp-util": "^3.0.8",

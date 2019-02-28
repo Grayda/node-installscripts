@@ -1566,12 +1566,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x64/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x64/install-node-v8.3.0.sh -O /tmp/install-node-v8.3.0.sh && source /tmp/install-node-v8.3.0.sh
 ```
 
-### x64: v8.3.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x64/install-node-v8.3.0.sh -O /tmp/install-node-v8.3.0.sh && source /tmp/install-node-v8.3.0.sh
-```
-
 ### x64: v8.2.1
 
 ```sh
@@ -1810,12 +1804,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x64/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x64/install-node-v7.10.0.sh -O /tmp/install-node-v7.10.0.sh && source /tmp/install-node-v7.10.0.sh
-```
-
-### x64: v7.9.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x64/install-node-v7.9.0.sh -O /tmp/install-node-v7.9.0.sh && source /tmp/install-node-v7.9.0.sh
 ```
 
 ### x64: v7.9.0
