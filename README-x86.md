@@ -18,10 +18,76 @@ To regenerate this list, run `gulp generate`
 
 ## Node for x86
 
-### x86: v11.6.0
+### x86: v11.10.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.6.0.sh -O /tmp/install-node-v11.6.0.sh && source /tmp/install-node-v11.6.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.10.0.sh -O /tmp/install-node-v11.10.0.sh && source /tmp/install-node-v11.10.0.sh
+```
+
+### x86: v11.10.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.10.0.sh -O /tmp/install-node-v11.10.0.sh && source /tmp/install-node-v11.10.0.sh
+```
+
+### x86: v11.10.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.10.0.sh -O /tmp/install-node-v11.10.0.sh && source /tmp/install-node-v11.10.0.sh
+```
+
+### x86: v11.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.9.0.sh -O /tmp/install-node-v11.9.0.sh && source /tmp/install-node-v11.9.0.sh
+```
+
+### x86: v11.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.9.0.sh -O /tmp/install-node-v11.9.0.sh && source /tmp/install-node-v11.9.0.sh
+```
+
+### x86: v11.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.9.0.sh -O /tmp/install-node-v11.9.0.sh && source /tmp/install-node-v11.9.0.sh
+```
+
+### x86: v11.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.8.0.sh -O /tmp/install-node-v11.8.0.sh && source /tmp/install-node-v11.8.0.sh
+```
+
+### x86: v11.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.8.0.sh -O /tmp/install-node-v11.8.0.sh && source /tmp/install-node-v11.8.0.sh
+```
+
+### x86: v11.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.8.0.sh -O /tmp/install-node-v11.8.0.sh && source /tmp/install-node-v11.8.0.sh
+```
+
+### x86: v11.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.7.0.sh -O /tmp/install-node-v11.7.0.sh && source /tmp/install-node-v11.7.0.sh
+```
+
+### x86: v11.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.7.0.sh -O /tmp/install-node-v11.7.0.sh && source /tmp/install-node-v11.7.0.sh
+```
+
+### x86: v11.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.7.0.sh -O /tmp/install-node-v11.7.0.sh && source /tmp/install-node-v11.7.0.sh
 ```
 
 ### x86: v11.6.0
@@ -34,6 +100,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.6.0.sh -O /tmp/install-node-v11.6.0.sh && source /tmp/install-node-v11.6.0.sh
+```
+
+### x86: v11.6.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.6.0.sh -O /tmp/install-node-v11.6.0.sh && source /tmp/install-node-v11.6.0.sh
+```
+
+### x86: v11.5.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.5.0.sh -O /tmp/install-node-v11.5.0.sh && source /tmp/install-node-v11.5.0.sh
 ```
 
 ### x86: v11.5.0
@@ -78,6 +156,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.3.0.sh -O /tmp/install-node-v11.3.0.sh && source /tmp/install-node-v11.3.0.sh
 ```
 
+### x86: v11.3.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.3.0.sh -O /tmp/install-node-v11.3.0.sh && source /tmp/install-node-v11.3.0.sh
+```
+
 ### x86: v11.2.0
 
 ```sh
@@ -132,6 +216,24 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v11.0.0.sh -O /tmp/install-node-v11.0.0.sh && source /tmp/install-node-v11.0.0.sh
 ```
 
+### x86: v10.15.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.15.1.sh -O /tmp/install-node-v10.15.1.sh && source /tmp/install-node-v10.15.1.sh
+```
+
+### x86: v10.15.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.15.1.sh -O /tmp/install-node-v10.15.1.sh && source /tmp/install-node-v10.15.1.sh
+```
+
+### x86: v10.15.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.15.1.sh -O /tmp/install-node-v10.15.1.sh && source /tmp/install-node-v10.15.1.sh
+```
+
 ### x86: v10.15.0
 
 ```sh
@@ -166,6 +268,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.14.2.sh -O /tmp/install-node-v10.14.2.sh && source /tmp/install-node-v10.14.2.sh
+```
+
+### x86: v10.14.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.14.1.sh -O /tmp/install-node-v10.14.1.sh && source /tmp/install-node-v10.14.1.sh
 ```
 
 ### x86: v10.14.1
@@ -246,6 +354,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.11.0.sh -O /tmp/install-node-v10.11.0.sh && source /tmp/install-node-v10.11.0.sh
 ```
 
+### x86: v10.11.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.11.0.sh -O /tmp/install-node-v10.11.0.sh && source /tmp/install-node-v10.11.0.sh
+```
+
 ### x86: v10.10.0
 
 ```sh
@@ -294,10 +408,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.8.0.sh -O /tmp/install-node-v10.8.0.sh && source /tmp/install-node-v10.8.0.sh
 ```
 
-### x86: v10.7.0
+### x86: v10.8.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.7.0.sh -O /tmp/install-node-v10.7.0.sh && source /tmp/install-node-v10.7.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.8.0.sh -O /tmp/install-node-v10.8.0.sh && source /tmp/install-node-v10.8.0.sh
 ```
 
 ### x86: v10.7.0
@@ -310,6 +424,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.7.0.sh -O /tmp/install-node-v10.7.0.sh && source /tmp/install-node-v10.7.0.sh
+```
+
+### x86: v10.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.7.0.sh -O /tmp/install-node-v10.7.0.sh && source /tmp/install-node-v10.7.0.sh
+```
+
+### x86: v10.6.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.6.0.sh -O /tmp/install-node-v10.6.0.sh && source /tmp/install-node-v10.6.0.sh
 ```
 
 ### x86: v10.6.0
@@ -390,6 +516,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.3.0.sh -O /tmp/install-node-v10.3.0.sh && source /tmp/install-node-v10.3.0.sh
 ```
 
+### x86: v10.3.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.3.0.sh -O /tmp/install-node-v10.3.0.sh && source /tmp/install-node-v10.3.0.sh
+```
+
+### x86: v10.2.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v10.2.1.sh -O /tmp/install-node-v10.2.1.sh && source /tmp/install-node-v10.2.1.sh
+```
+
 ### x86: v10.2.1
 
 ```sh
@@ -642,6 +780,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.7.1.sh -O /tmp/install-node-v9.7.1.sh && source /tmp/install-node-v9.7.1.sh
 ```
 
+### x86: v9.7.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.7.1.sh -O /tmp/install-node-v9.7.1.sh && source /tmp/install-node-v9.7.1.sh
+```
+
 ### x86: v9.7.0
 
 ```sh
@@ -756,6 +900,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.4.0.sh -O /tmp/install-node-v9.4.0.sh && source /tmp/install-node-v9.4.0.sh
 ```
 
+### x86: v9.4.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.4.0.sh -O /tmp/install-node-v9.4.0.sh && source /tmp/install-node-v9.4.0.sh
+```
+
+### x86: v9.3.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.3.0.sh -O /tmp/install-node-v9.3.0.sh && source /tmp/install-node-v9.3.0.sh
+```
+
 ### x86: v9.3.0
 
 ```sh
@@ -772,6 +928,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.3.0.sh -O /tmp/install-node-v9.3.0.sh && source /tmp/install-node-v9.3.0.sh
+```
+
+### x86: v9.2.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.2.1.sh -O /tmp/install-node-v9.2.1.sh && source /tmp/install-node-v9.2.1.sh
 ```
 
 ### x86: v9.2.1
@@ -858,10 +1020,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.0.0.sh -O /tmp/install-node-v9.0.0.sh && source /tmp/install-node-v9.0.0.sh
 ```
 
-### x86: v8.15.0
+### x86: v9.0.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v8.15.0.sh -O /tmp/install-node-v8.15.0.sh && source /tmp/install-node-v8.15.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v9.0.0.sh -O /tmp/install-node-v9.0.0.sh && source /tmp/install-node-v9.0.0.sh
 ```
 
 ### x86: v8.15.0
@@ -876,6 +1038,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v8.15.0.sh -O /tmp/install-node-v8.15.0.sh && source /tmp/install-node-v8.15.0.sh
 ```
 
+### x86: v8.15.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v8.15.0.sh -O /tmp/install-node-v8.15.0.sh && source /tmp/install-node-v8.15.0.sh
+```
+
+### x86: v8.15.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v8.15.0.sh -O /tmp/install-node-v8.15.0.sh && source /tmp/install-node-v8.15.0.sh
+```
+
 ### x86: v8.14.1
 
 ```sh
@@ -1234,6 +1408,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v8.9.0.sh -O /tmp/install-node-v8.9.0.sh && source /tmp/install-node-v8.9.0.sh
+```
+
+### x86: v8.8.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v8.8.1.sh -O /tmp/install-node-v8.8.1.sh && source /tmp/install-node-v8.8.1.sh
 ```
 
 ### x86: v8.8.1
@@ -2010,6 +2190,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.16.0.sh -O /tmp/install-node-v6.16.0.sh && source /tmp/install-node-v6.16.0.sh
 ```
 
+### x86: v6.16.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.16.0.sh -O /tmp/install-node-v6.16.0.sh && source /tmp/install-node-v6.16.0.sh
+```
+
 ### x86: v6.15.1
 
 ```sh
@@ -2050,6 +2236,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.15.0.sh -O /tmp/install-node-v6.15.0.sh && source /tmp/install-node-v6.15.0.sh
+```
+
+### x86: v6.15.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.15.0.sh -O /tmp/install-node-v6.15.0.sh && source /tmp/install-node-v6.15.0.sh
+```
+
+### x86: v6.14.4
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.14.4.sh -O /tmp/install-node-v6.14.4.sh && source /tmp/install-node-v6.14.4.sh
 ```
 
 ### x86: v6.14.4
@@ -2134,6 +2332,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.14.1.sh -O /tmp/install-node-v6.14.1.sh && source /tmp/install-node-v6.14.1.sh
+```
+
+### x86: v6.14.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.14.1.sh -O /tmp/install-node-v6.14.1.sh && source /tmp/install-node-v6.14.1.sh
+```
+
+### x86: v6.14.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v6.14.0.sh -O /tmp/install-node-v6.14.0.sh && source /tmp/install-node-v6.14.0.sh
 ```
 
 ### x86: v6.14.0
@@ -3156,6 +3366,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v5.9.0.sh -O /tmp/install-node-v5.9.0.sh && source /tmp/install-node-v5.9.0.sh
 ```
 
+### x86: v5.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v5.9.0.sh -O /tmp/install-node-v5.9.0.sh && source /tmp/install-node-v5.9.0.sh
+```
+
 ### x86: v5.8.0
 
 ```sh
@@ -3942,6 +4158,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v4.4.5.sh -O /tmp/install-node-v4.4.5.sh && source /tmp/install-node-v4.4.5.sh
 ```
 
+### x86: v4.4.5
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v4.4.5.sh -O /tmp/install-node-v4.4.5.sh && source /tmp/install-node-v4.4.5.sh
+```
+
 ### x86: v4.4.4
 
 ```sh
@@ -4032,6 +4254,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v4.4.1.sh -O /tmp/install-node-v4.4.1.sh && source /tmp/install-node-v4.4.1.sh
 ```
 
+### x86: v4.4.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v4.4.1.sh -O /tmp/install-node-v4.4.1.sh && source /tmp/install-node-v4.4.1.sh
+```
+
 ### x86: v4.4.0
 
 ```sh
@@ -4126,6 +4354,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v4.3.0.sh -O /tmp/install-node-v4.3.0.sh && source /tmp/install-node-v4.3.0.sh
+```
+
+### x86: v4.2.6
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v4.2.6.sh -O /tmp/install-node-v4.2.6.sh && source /tmp/install-node-v4.2.6.sh
 ```
 
 ### x86: v4.2.6
@@ -4488,6 +4722,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.12.10.sh -O /tmp/install-node-v0.12.10.sh && source /tmp/install-node-v0.12.10.sh
 ```
 
+### x86: v0.12.10
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.12.10.sh -O /tmp/install-node-v0.12.10.sh && source /tmp/install-node-v0.12.10.sh
+```
+
 ### x86: v0.12.9
 
 ```sh
@@ -4600,6 +4840,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.12.0.sh -O /tmp/install-node-v0.12.0.sh && source /tmp/install-node-v0.12.0.sh
+```
+
+### x86: v0.12.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.12.0.sh -O /tmp/install-node-v0.12.0.sh && source /tmp/install-node-v0.12.0.sh
+```
+
+### x86: v0.11.16
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.11.16.sh -O /tmp/install-node-v0.11.16.sh && source /tmp/install-node-v0.11.16.sh
 ```
 
 ### x86: v0.11.16
@@ -5298,10 +5550,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.10.7.sh -O /tmp/install-node-v0.10.7.sh && source /tmp/install-node-v0.10.7.sh
 ```
 
-### x86: v0.10.7
+### x86: v0.10.6
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.10.7.sh -O /tmp/install-node-v0.10.7.sh && source /tmp/install-node-v0.10.7.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.10.6.sh -O /tmp/install-node-v0.10.6.sh && source /tmp/install-node-v0.10.6.sh
 ```
 
 ### x86: v0.10.6
@@ -5388,12 +5640,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.9.12.sh -O /tmp/install-node-v0.9.12.sh && source /tmp/install-node-v0.9.12.sh
 ```
 
-### x86: v0.9.12
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.9.12.sh -O /tmp/install-node-v0.9.12.sh && source /tmp/install-node-v0.9.12.sh
-```
-
 ### x86: v0.9.11
 
 ```sh
@@ -5788,12 +6034,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/ins
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.8.7.sh -O /tmp/install-node-v0.8.7.sh && source /tmp/install-node-v0.8.7.sh
-```
-
-### x86: v0.8.6
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/x86/install-node-v0.8.6.sh -O /tmp/install-node-v0.8.6.sh && source /tmp/install-node-v0.8.6.sh
 ```
 
 ### x86: v0.8.6

@@ -18,10 +18,76 @@ To regenerate this list, run `gulp generate`
 
 ## Node for armv7l
 
-### armv7l: v11.6.0
+### armv7l: v11.10.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.6.0.sh -O /tmp/install-node-v11.6.0.sh && source /tmp/install-node-v11.6.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.10.0.sh -O /tmp/install-node-v11.10.0.sh && source /tmp/install-node-v11.10.0.sh
+```
+
+### armv7l: v11.10.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.10.0.sh -O /tmp/install-node-v11.10.0.sh && source /tmp/install-node-v11.10.0.sh
+```
+
+### armv7l: v11.10.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.10.0.sh -O /tmp/install-node-v11.10.0.sh && source /tmp/install-node-v11.10.0.sh
+```
+
+### armv7l: v11.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.9.0.sh -O /tmp/install-node-v11.9.0.sh && source /tmp/install-node-v11.9.0.sh
+```
+
+### armv7l: v11.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.9.0.sh -O /tmp/install-node-v11.9.0.sh && source /tmp/install-node-v11.9.0.sh
+```
+
+### armv7l: v11.9.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.9.0.sh -O /tmp/install-node-v11.9.0.sh && source /tmp/install-node-v11.9.0.sh
+```
+
+### armv7l: v11.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.8.0.sh -O /tmp/install-node-v11.8.0.sh && source /tmp/install-node-v11.8.0.sh
+```
+
+### armv7l: v11.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.8.0.sh -O /tmp/install-node-v11.8.0.sh && source /tmp/install-node-v11.8.0.sh
+```
+
+### armv7l: v11.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.8.0.sh -O /tmp/install-node-v11.8.0.sh && source /tmp/install-node-v11.8.0.sh
+```
+
+### armv7l: v11.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.7.0.sh -O /tmp/install-node-v11.7.0.sh && source /tmp/install-node-v11.7.0.sh
+```
+
+### armv7l: v11.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.7.0.sh -O /tmp/install-node-v11.7.0.sh && source /tmp/install-node-v11.7.0.sh
+```
+
+### armv7l: v11.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.7.0.sh -O /tmp/install-node-v11.7.0.sh && source /tmp/install-node-v11.7.0.sh
 ```
 
 ### armv7l: v11.6.0
@@ -34,6 +100,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.6.0.sh -O /tmp/install-node-v11.6.0.sh && source /tmp/install-node-v11.6.0.sh
+```
+
+### armv7l: v11.6.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.6.0.sh -O /tmp/install-node-v11.6.0.sh && source /tmp/install-node-v11.6.0.sh
+```
+
+### armv7l: v11.5.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.5.0.sh -O /tmp/install-node-v11.5.0.sh && source /tmp/install-node-v11.5.0.sh
 ```
 
 ### armv7l: v11.5.0
@@ -78,6 +156,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.3.0.sh -O /tmp/install-node-v11.3.0.sh && source /tmp/install-node-v11.3.0.sh
 ```
 
+### armv7l: v11.3.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.3.0.sh -O /tmp/install-node-v11.3.0.sh && source /tmp/install-node-v11.3.0.sh
+```
+
 ### armv7l: v11.2.0
 
 ```sh
@@ -132,6 +216,24 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v11.0.0.sh -O /tmp/install-node-v11.0.0.sh && source /tmp/install-node-v11.0.0.sh
 ```
 
+### armv7l: v10.15.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.15.1.sh -O /tmp/install-node-v10.15.1.sh && source /tmp/install-node-v10.15.1.sh
+```
+
+### armv7l: v10.15.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.15.1.sh -O /tmp/install-node-v10.15.1.sh && source /tmp/install-node-v10.15.1.sh
+```
+
+### armv7l: v10.15.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.15.1.sh -O /tmp/install-node-v10.15.1.sh && source /tmp/install-node-v10.15.1.sh
+```
+
 ### armv7l: v10.15.0
 
 ```sh
@@ -166,6 +268,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.14.2.sh -O /tmp/install-node-v10.14.2.sh && source /tmp/install-node-v10.14.2.sh
+```
+
+### armv7l: v10.14.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.14.1.sh -O /tmp/install-node-v10.14.1.sh && source /tmp/install-node-v10.14.1.sh
 ```
 
 ### armv7l: v10.14.1
@@ -246,6 +354,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.11.0.sh -O /tmp/install-node-v10.11.0.sh && source /tmp/install-node-v10.11.0.sh
 ```
 
+### armv7l: v10.11.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.11.0.sh -O /tmp/install-node-v10.11.0.sh && source /tmp/install-node-v10.11.0.sh
+```
+
 ### armv7l: v10.10.0
 
 ```sh
@@ -294,10 +408,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.8.0.sh -O /tmp/install-node-v10.8.0.sh && source /tmp/install-node-v10.8.0.sh
 ```
 
-### armv7l: v10.7.0
+### armv7l: v10.8.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.7.0.sh -O /tmp/install-node-v10.7.0.sh && source /tmp/install-node-v10.7.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.8.0.sh -O /tmp/install-node-v10.8.0.sh && source /tmp/install-node-v10.8.0.sh
 ```
 
 ### armv7l: v10.7.0
@@ -310,6 +424,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.7.0.sh -O /tmp/install-node-v10.7.0.sh && source /tmp/install-node-v10.7.0.sh
+```
+
+### armv7l: v10.7.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.7.0.sh -O /tmp/install-node-v10.7.0.sh && source /tmp/install-node-v10.7.0.sh
+```
+
+### armv7l: v10.6.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.6.0.sh -O /tmp/install-node-v10.6.0.sh && source /tmp/install-node-v10.6.0.sh
 ```
 
 ### armv7l: v10.6.0
@@ -390,6 +516,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.3.0.sh -O /tmp/install-node-v10.3.0.sh && source /tmp/install-node-v10.3.0.sh
 ```
 
+### armv7l: v10.3.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.3.0.sh -O /tmp/install-node-v10.3.0.sh && source /tmp/install-node-v10.3.0.sh
+```
+
+### armv7l: v10.2.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v10.2.1.sh -O /tmp/install-node-v10.2.1.sh && source /tmp/install-node-v10.2.1.sh
+```
+
 ### armv7l: v10.2.1
 
 ```sh
@@ -642,10 +780,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.7.1.sh -O /tmp/install-node-v9.7.1.sh && source /tmp/install-node-v9.7.1.sh
 ```
 
-### armv7l: v9.7.0
+### armv7l: v9.7.1
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.7.0.sh -O /tmp/install-node-v9.7.0.sh && source /tmp/install-node-v9.7.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.7.1.sh -O /tmp/install-node-v9.7.1.sh && source /tmp/install-node-v9.7.1.sh
 ```
 
 ### armv7l: v9.7.0
@@ -706,18 +844,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.6.0.sh -O /tmp/install-node-v9.6.0.sh && source /tmp/install-node-v9.6.0.sh
-```
-
-### armv7l: v9.6.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.6.0.sh -O /tmp/install-node-v9.6.0.sh && source /tmp/install-node-v9.6.0.sh
-```
-
-### armv7l: v9.5.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.5.0.sh -O /tmp/install-node-v9.5.0.sh && source /tmp/install-node-v9.5.0.sh
 ```
 
 ### armv7l: v9.5.0
@@ -756,6 +882,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.4.0.sh -O /tmp/install-node-v9.4.0.sh && source /tmp/install-node-v9.4.0.sh
 ```
 
+### armv7l: v9.4.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.4.0.sh -O /tmp/install-node-v9.4.0.sh && source /tmp/install-node-v9.4.0.sh
+```
+
+### armv7l: v9.3.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.3.0.sh -O /tmp/install-node-v9.3.0.sh && source /tmp/install-node-v9.3.0.sh
+```
+
 ### armv7l: v9.3.0
 
 ```sh
@@ -790,12 +928,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.2.1.sh -O /tmp/install-node-v9.2.1.sh && source /tmp/install-node-v9.2.1.sh
-```
-
-### armv7l: v9.2.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v9.2.0.sh -O /tmp/install-node-v9.2.0.sh && source /tmp/install-node-v9.2.0.sh
 ```
 
 ### armv7l: v9.2.0
@@ -876,6 +1008,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v8.15.0.sh -O /tmp/install-node-v8.15.0.sh && source /tmp/install-node-v8.15.0.sh
 ```
 
+### armv7l: v8.15.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v8.15.0.sh -O /tmp/install-node-v8.15.0.sh && source /tmp/install-node-v8.15.0.sh
+```
+
 ### armv7l: v8.14.1
 
 ```sh
@@ -1182,12 +1320,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v8.9.2.sh -O /tmp/install-node-v8.9.2.sh && source /tmp/install-node-v8.9.2.sh
 ```
 
-### armv7l: v8.9.2
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v8.9.2.sh -O /tmp/install-node-v8.9.2.sh && source /tmp/install-node-v8.9.2.sh
-```
-
 ### armv7l: v8.9.1
 
 ```sh
@@ -1234,6 +1366,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v8.9.0.sh -O /tmp/install-node-v8.9.0.sh && source /tmp/install-node-v8.9.0.sh
+```
+
+### armv7l: v8.8.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v8.8.1.sh -O /tmp/install-node-v8.8.1.sh && source /tmp/install-node-v8.8.1.sh
 ```
 
 ### armv7l: v8.8.1
@@ -1722,12 +1860,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v7.7.3.sh -O /tmp/install-node-v7.7.3.sh && source /tmp/install-node-v7.7.3.sh
 ```
 
-### armv7l: v7.7.3
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v7.7.3.sh -O /tmp/install-node-v7.7.3.sh && source /tmp/install-node-v7.7.3.sh
-```
-
 ### armv7l: v7.7.2
 
 ```sh
@@ -2052,10 +2184,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.15.0.sh -O /tmp/install-node-v6.15.0.sh && source /tmp/install-node-v6.15.0.sh
 ```
 
-### armv7l: v6.14.4
+### armv7l: v6.15.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.4.sh -O /tmp/install-node-v6.14.4.sh && source /tmp/install-node-v6.14.4.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.15.0.sh -O /tmp/install-node-v6.15.0.sh && source /tmp/install-node-v6.15.0.sh
 ```
 
 ### armv7l: v6.14.4
@@ -2070,6 +2202,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.4.sh -O /tmp/install-node-v6.14.4.sh && source /tmp/install-node-v6.14.4.sh
 ```
 
+### armv7l: v6.14.4
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.4.sh -O /tmp/install-node-v6.14.4.sh && source /tmp/install-node-v6.14.4.sh
+```
+
+### armv7l: v6.14.4
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.4.sh -O /tmp/install-node-v6.14.4.sh && source /tmp/install-node-v6.14.4.sh
+```
+
 ### armv7l: v6.14.3
 
 ```sh
@@ -2112,10 +2256,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.2.sh -O /tmp/install-node-v6.14.2.sh && source /tmp/install-node-v6.14.2.sh
 ```
 
-### armv7l: v6.14.2
+### armv7l: v6.14.1
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.2.sh -O /tmp/install-node-v6.14.2.sh && source /tmp/install-node-v6.14.2.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.14.1.sh -O /tmp/install-node-v6.14.1.sh && source /tmp/install-node-v6.14.1.sh
 ```
 
 ### armv7l: v6.14.1
@@ -2196,12 +2340,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.13.0.sh -O /tmp/install-node-v6.13.0.sh && source /tmp/install-node-v6.13.0.sh
 ```
 
-### armv7l: v6.13.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.13.0.sh -O /tmp/install-node-v6.13.0.sh && source /tmp/install-node-v6.13.0.sh
-```
-
 ### armv7l: v6.12.3
 
 ```sh
@@ -2296,12 +2434,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.12.0.sh -O /tmp/install-node-v6.12.0.sh && source /tmp/install-node-v6.12.0.sh
-```
-
-### armv7l: v6.11.5
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.11.5.sh -O /tmp/install-node-v6.11.5.sh && source /tmp/install-node-v6.11.5.sh
 ```
 
 ### armv7l: v6.11.5
@@ -2628,12 +2760,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.9.2.sh -O /tmp/install-node-v6.9.2.sh && source /tmp/install-node-v6.9.2.sh
 ```
 
-### armv7l: v6.9.2
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.9.2.sh -O /tmp/install-node-v6.9.2.sh && source /tmp/install-node-v6.9.2.sh
-```
-
 ### armv7l: v6.9.1
 
 ```sh
@@ -2728,12 +2854,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.8.0.sh -O /tmp/install-node-v6.8.0.sh && source /tmp/install-node-v6.8.0.sh
-```
-
-### armv7l: v6.7.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.7.0.sh -O /tmp/install-node-v6.7.0.sh && source /tmp/install-node-v6.7.0.sh
 ```
 
 ### armv7l: v6.7.0
@@ -2820,10 +2940,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.4.0.sh -O /tmp/install-node-v6.4.0.sh && source /tmp/install-node-v6.4.0.sh
 ```
 
-### armv7l: v6.3.1
+### armv7l: v6.4.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.3.1.sh -O /tmp/install-node-v6.3.1.sh && source /tmp/install-node-v6.3.1.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.4.0.sh -O /tmp/install-node-v6.4.0.sh && source /tmp/install-node-v6.4.0.sh
 ```
 
 ### armv7l: v6.3.1
@@ -2934,6 +3054,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.2.0.sh -O /tmp/install-node-v6.2.0.sh && source /tmp/install-node-v6.2.0.sh
 ```
 
+### armv7l: v6.2.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v6.2.0.sh -O /tmp/install-node-v6.2.0.sh && source /tmp/install-node-v6.2.0.sh
+```
+
 ### armv7l: v6.1.0
 
 ```sh
@@ -3052,12 +3178,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.11.0.sh -O /tmp/install-node-v5.11.0.sh && source /tmp/install-node-v5.11.0.sh
-```
-
-### armv7l: v5.10.1
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.10.1.sh -O /tmp/install-node-v5.10.1.sh && source /tmp/install-node-v5.10.1.sh
 ```
 
 ### armv7l: v5.10.1
@@ -3144,10 +3264,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.9.0.sh -O /tmp/install-node-v5.9.0.sh && source /tmp/install-node-v5.9.0.sh
 ```
 
-### armv7l: v5.8.0
+### armv7l: v5.9.0
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.8.0.sh -O /tmp/install-node-v5.8.0.sh && source /tmp/install-node-v5.8.0.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.9.0.sh -O /tmp/install-node-v5.9.0.sh && source /tmp/install-node-v5.9.0.sh
 ```
 
 ### armv7l: v5.8.0
@@ -3258,12 +3378,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.5.0.sh -O /tmp/install-node-v5.5.0.sh && source /tmp/install-node-v5.5.0.sh
 ```
 
-### armv7l: v5.5.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.5.0.sh -O /tmp/install-node-v5.5.0.sh && source /tmp/install-node-v5.5.0.sh
-```
-
 ### armv7l: v5.4.1
 
 ```sh
@@ -3310,12 +3424,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.4.0.sh -O /tmp/install-node-v5.4.0.sh && source /tmp/install-node-v5.4.0.sh
-```
-
-### armv7l: v5.3.0
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.3.0.sh -O /tmp/install-node-v5.3.0.sh && source /tmp/install-node-v5.3.0.sh
 ```
 
 ### armv7l: v5.3.0
@@ -3372,12 +3480,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.1.1.sh -O /tmp/install-node-v5.1.1.sh && source /tmp/install-node-v5.1.1.sh
 ```
 
-### armv7l: v5.1.1
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v5.1.1.sh -O /tmp/install-node-v5.1.1.sh && source /tmp/install-node-v5.1.1.sh
-```
-
 ### armv7l: v5.1.0
 
 ```sh
@@ -3492,12 +3594,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.8.7.sh -O /tmp/install-node-v4.8.7.sh && source /tmp/install-node-v4.8.7.sh
 ```
 
-### armv7l: v4.8.7
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.8.7.sh -O /tmp/install-node-v4.8.7.sh && source /tmp/install-node-v4.8.7.sh
-```
-
 ### armv7l: v4.8.6
 
 ```sh
@@ -3520,12 +3616,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.8.6.sh -O /tmp/install-node-v4.8.6.sh && source /tmp/install-node-v4.8.6.sh
-```
-
-### armv7l: v4.8.5
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.8.5.sh -O /tmp/install-node-v4.8.5.sh && source /tmp/install-node-v4.8.5.sh
 ```
 
 ### armv7l: v4.8.5
@@ -3660,6 +3750,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.8.0.sh -O /tmp/install-node-v4.8.0.sh && source /tmp/install-node-v4.8.0.sh
 ```
 
+### armv7l: v4.8.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.8.0.sh -O /tmp/install-node-v4.8.0.sh && source /tmp/install-node-v4.8.0.sh
+```
+
 ### armv7l: v4.7.3
 
 ```sh
@@ -3774,10 +3870,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.6.2.sh -O /tmp/install-node-v4.6.2.sh && source /tmp/install-node-v4.6.2.sh
 ```
 
-### armv7l: v4.6.1
+### armv7l: v4.6.2
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.6.1.sh -O /tmp/install-node-v4.6.1.sh && source /tmp/install-node-v4.6.1.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.6.2.sh -O /tmp/install-node-v4.6.2.sh && source /tmp/install-node-v4.6.2.sh
 ```
 
 ### armv7l: v4.6.1
@@ -3792,6 +3888,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.6.1.sh -O /tmp/install-node-v4.6.1.sh && source /tmp/install-node-v4.6.1.sh
 ```
 
+### armv7l: v4.6.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.6.1.sh -O /tmp/install-node-v4.6.1.sh && source /tmp/install-node-v4.6.1.sh
+```
+
+### armv7l: v4.6.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.6.1.sh -O /tmp/install-node-v4.6.1.sh && source /tmp/install-node-v4.6.1.sh
+```
+
 ### armv7l: v4.6.0
 
 ```sh
@@ -3838,12 +3946,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.5.0.sh -O /tmp/install-node-v4.5.0.sh && source /tmp/install-node-v4.5.0.sh
-```
-
-### armv7l: v4.4.7
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.7.sh -O /tmp/install-node-v4.4.7.sh && source /tmp/install-node-v4.4.7.sh
 ```
 
 ### armv7l: v4.4.7
@@ -3906,10 +4008,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.5.sh -O /tmp/install-node-v4.4.5.sh && source /tmp/install-node-v4.4.5.sh
 ```
 
-### armv7l: v4.4.4
+### armv7l: v4.4.5
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.4.sh -O /tmp/install-node-v4.4.4.sh && source /tmp/install-node-v4.4.4.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.5.sh -O /tmp/install-node-v4.4.5.sh && source /tmp/install-node-v4.4.5.sh
 ```
 
 ### armv7l: v4.4.4
@@ -3924,6 +4026,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.4.sh -O /tmp/install-node-v4.4.4.sh && source /tmp/install-node-v4.4.4.sh
 ```
 
+### armv7l: v4.4.4
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.4.sh -O /tmp/install-node-v4.4.4.sh && source /tmp/install-node-v4.4.4.sh
+```
+
+### armv7l: v4.4.4
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.4.sh -O /tmp/install-node-v4.4.4.sh && source /tmp/install-node-v4.4.4.sh
+```
+
 ### armv7l: v4.4.3
 
 ```sh
@@ -3970,6 +4084,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.2.sh -O /tmp/install-node-v4.4.2.sh && source /tmp/install-node-v4.4.2.sh
+```
+
+### armv7l: v4.4.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.4.1.sh -O /tmp/install-node-v4.4.1.sh && source /tmp/install-node-v4.4.1.sh
 ```
 
 ### armv7l: v4.4.1
@@ -4104,6 +4224,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.2.6.sh -O /tmp/install-node-v4.2.6.sh && source /tmp/install-node-v4.2.6.sh
 ```
 
+### armv7l: v4.2.6
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.2.6.sh -O /tmp/install-node-v4.2.6.sh && source /tmp/install-node-v4.2.6.sh
+```
+
 ### armv7l: v4.2.5
 
 ```sh
@@ -4198,12 +4324,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.2.2.sh -O /tmp/install-node-v4.2.2.sh && source /tmp/install-node-v4.2.2.sh
-```
-
-### armv7l: v4.2.1
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v4.2.1.sh -O /tmp/install-node-v4.2.1.sh && source /tmp/install-node-v4.2.1.sh
 ```
 
 ### armv7l: v4.2.1
@@ -4446,10 +4566,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.12.10.sh -O /tmp/install-node-v0.12.10.sh && source /tmp/install-node-v0.12.10.sh
 ```
 
-### armv7l: v0.12.9
+### armv7l: v0.12.10
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.12.9.sh -O /tmp/install-node-v0.12.9.sh && source /tmp/install-node-v0.12.9.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.12.10.sh -O /tmp/install-node-v0.12.10.sh && source /tmp/install-node-v0.12.10.sh
 ```
 
 ### armv7l: v0.12.9
@@ -4560,6 +4680,18 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.12.0.sh -O /tmp/install-node-v0.12.0.sh && source /tmp/install-node-v0.12.0.sh
 ```
 
+### armv7l: v0.12.0
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.12.0.sh -O /tmp/install-node-v0.12.0.sh && source /tmp/install-node-v0.12.0.sh
+```
+
+### armv7l: v0.11.16
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.11.16.sh -O /tmp/install-node-v0.11.16.sh && source /tmp/install-node-v0.11.16.sh
+```
+
 ### armv7l: v0.11.16
 
 ```sh
@@ -4624,12 +4756,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.11.11.sh -O /tmp/install-node-v0.11.11.sh && source /tmp/install-node-v0.11.11.sh
-```
-
-### armv7l: v0.11.10
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.11.10.sh -O /tmp/install-node-v0.11.10.sh && source /tmp/install-node-v0.11.10.sh
 ```
 
 ### armv7l: v0.11.10
@@ -4740,6 +4866,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.11.1.sh -O /tmp/install-node-v0.11.1.sh && source /tmp/install-node-v0.11.1.sh
 ```
 
+### armv7l: v0.11.1
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.11.1.sh -O /tmp/install-node-v0.11.1.sh && source /tmp/install-node-v0.11.1.sh
+```
+
 ### armv7l: v0.11.0
 
 ```sh
@@ -4762,6 +4894,12 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.48.sh -O /tmp/install-node-v0.10.48.sh && source /tmp/install-node-v0.10.48.sh
+```
+
+### armv7l: v0.10.47
+
+```sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.47.sh -O /tmp/install-node-v0.10.47.sh && source /tmp/install-node-v0.10.47.sh
 ```
 
 ### armv7l: v0.10.47
@@ -4920,12 +5058,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.34.sh -O /tmp/install-node-v0.10.34.sh && source /tmp/install-node-v0.10.34.sh
 ```
 
-### armv7l: v0.10.34
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.34.sh -O /tmp/install-node-v0.10.34.sh && source /tmp/install-node-v0.10.34.sh
-```
-
 ### armv7l: v0.10.33
 
 ```sh
@@ -5064,10 +5196,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.22.sh -O /tmp/install-node-v0.10.22.sh && source /tmp/install-node-v0.10.22.sh
 ```
 
-### armv7l: v0.10.22
+### armv7l: v0.10.21
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.22.sh -O /tmp/install-node-v0.10.22.sh && source /tmp/install-node-v0.10.22.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.21.sh -O /tmp/install-node-v0.10.21.sh && source /tmp/install-node-v0.10.21.sh
 ```
 
 ### armv7l: v0.10.21
@@ -5118,24 +5250,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.17.sh -O /tmp/install-node-v0.10.17.sh && source /tmp/install-node-v0.10.17.sh
 ```
 
-### armv7l: v0.10.17
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.17.sh -O /tmp/install-node-v0.10.17.sh && source /tmp/install-node-v0.10.17.sh
-```
-
-### armv7l: v0.10.16
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.16.sh -O /tmp/install-node-v0.10.16.sh && source /tmp/install-node-v0.10.16.sh
-```
-
-### armv7l: v0.10.16
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.16.sh -O /tmp/install-node-v0.10.16.sh && source /tmp/install-node-v0.10.16.sh
-```
-
 ### armv7l: v0.10.15
 
 ```sh
@@ -5214,18 +5328,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.9.sh -O /tmp/install-node-v0.10.9.sh && source /tmp/install-node-v0.10.9.sh
 ```
 
-### armv7l: v0.10.9
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.9.sh -O /tmp/install-node-v0.10.9.sh && source /tmp/install-node-v0.10.9.sh
-```
-
-### armv7l: v0.10.8
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.8.sh -O /tmp/install-node-v0.10.8.sh && source /tmp/install-node-v0.10.8.sh
-```
-
 ### armv7l: v0.10.8
 
 ```sh
@@ -5238,10 +5340,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.7.sh -O /tmp/install-node-v0.10.7.sh && source /tmp/install-node-v0.10.7.sh
 ```
 
-### armv7l: v0.10.7
+### armv7l: v0.10.6
 
 ```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.7.sh -O /tmp/install-node-v0.10.7.sh && source /tmp/install-node-v0.10.7.sh
+wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.6.sh -O /tmp/install-node-v0.10.6.sh && source /tmp/install-node-v0.10.6.sh
 ```
 
 ### armv7l: v0.10.6
@@ -5274,18 +5376,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.4.sh -O /tmp/install-node-v0.10.4.sh && source /tmp/install-node-v0.10.4.sh
 ```
 
-### armv7l: v0.10.3
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.3.sh -O /tmp/install-node-v0.10.3.sh && source /tmp/install-node-v0.10.3.sh
-```
-
-### armv7l: v0.10.3
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.3.sh -O /tmp/install-node-v0.10.3.sh && source /tmp/install-node-v0.10.3.sh
-```
-
 ### armv7l: v0.10.2
 
 ```sh
@@ -5304,12 +5394,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.1.sh -O /tmp/install-node-v0.10.1.sh && source /tmp/install-node-v0.10.1.sh
 ```
 
-### armv7l: v0.10.1
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.1.sh -O /tmp/install-node-v0.10.1.sh && source /tmp/install-node-v0.10.1.sh
-```
-
 ### armv7l: v0.10.0
 
 ```sh
@@ -5320,18 +5404,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.10.0.sh -O /tmp/install-node-v0.10.0.sh && source /tmp/install-node-v0.10.0.sh
-```
-
-### armv7l: v0.9.12
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.9.12.sh -O /tmp/install-node-v0.9.12.sh && source /tmp/install-node-v0.9.12.sh
-```
-
-### armv7l: v0.9.12
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.9.12.sh -O /tmp/install-node-v0.9.12.sh && source /tmp/install-node-v0.9.12.sh
 ```
 
 ### armv7l: v0.9.11
@@ -5400,12 +5472,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.9.6.sh -O /tmp/install-node-v0.9.6.sh && source /tmp/install-node-v0.9.6.sh
 ```
 
-### armv7l: v0.9.6
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.9.6.sh -O /tmp/install-node-v0.9.6.sh && source /tmp/install-node-v0.9.6.sh
-```
-
 ### armv7l: v0.9.5
 
 ```sh
@@ -5448,12 +5514,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.9.2.sh -O /tmp/install-node-v0.9.2.sh && source /tmp/install-node-v0.9.2.sh
 ```
 
-### armv7l: v0.9.2
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.9.2.sh -O /tmp/install-node-v0.9.2.sh && source /tmp/install-node-v0.9.2.sh
-```
-
 ### armv7l: v0.9.1
 
 ```sh
@@ -5482,18 +5542,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.27.sh -O /tmp/install-node-v0.8.27.sh && source /tmp/install-node-v0.8.27.sh
-```
-
-### armv7l: v0.8.27
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.27.sh -O /tmp/install-node-v0.8.27.sh && source /tmp/install-node-v0.8.27.sh
-```
-
-### armv7l: v0.8.26
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.26.sh -O /tmp/install-node-v0.8.26.sh && source /tmp/install-node-v0.8.26.sh
 ```
 
 ### armv7l: v0.8.26
@@ -5592,18 +5640,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.18.sh -O /tmp/install-node-v0.8.18.sh && source /tmp/install-node-v0.8.18.sh
 ```
 
-### armv7l: v0.8.18
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.18.sh -O /tmp/install-node-v0.8.18.sh && source /tmp/install-node-v0.8.18.sh
-```
-
-### armv7l: v0.8.17
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.17.sh -O /tmp/install-node-v0.8.17.sh && source /tmp/install-node-v0.8.17.sh
-```
-
 ### armv7l: v0.8.17
 
 ```sh
@@ -5614,18 +5650,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.16.sh -O /tmp/install-node-v0.8.16.sh && source /tmp/install-node-v0.8.16.sh
-```
-
-### armv7l: v0.8.16
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.16.sh -O /tmp/install-node-v0.8.16.sh && source /tmp/install-node-v0.8.16.sh
-```
-
-### armv7l: v0.8.15
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.15.sh -O /tmp/install-node-v0.8.15.sh && source /tmp/install-node-v0.8.15.sh
 ```
 
 ### armv7l: v0.8.15
@@ -5688,18 +5712,6 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.10.sh -O /tmp/install-node-v0.8.10.sh && source /tmp/install-node-v0.8.10.sh
 ```
 
-### armv7l: v0.8.10
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.10.sh -O /tmp/install-node-v0.8.10.sh && source /tmp/install-node-v0.8.10.sh
-```
-
-### armv7l: v0.8.9
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.9.sh -O /tmp/install-node-v0.8.9.sh && source /tmp/install-node-v0.8.9.sh
-```
-
 ### armv7l: v0.8.9
 
 ```sh
@@ -5712,28 +5724,10 @@ wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.8.sh -O /tmp/install-node-v0.8.8.sh && source /tmp/install-node-v0.8.8.sh
 ```
 
-### armv7l: v0.8.8
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.8.sh -O /tmp/install-node-v0.8.8.sh && source /tmp/install-node-v0.8.8.sh
-```
-
 ### armv7l: v0.8.7
 
 ```sh
 wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.7.sh -O /tmp/install-node-v0.8.7.sh && source /tmp/install-node-v0.8.7.sh
-```
-
-### armv7l: v0.8.7
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.7.sh -O /tmp/install-node-v0.8.7.sh && source /tmp/install-node-v0.8.7.sh
-```
-
-### armv7l: v0.8.6
-
-```sh
-wget https://raw.githubusercontent.com/grayda/node-installscripts/master/armv7l/install-node-v0.8.6.sh -O /tmp/install-node-v0.8.6.sh && source /tmp/install-node-v0.8.6.sh
 ```
 
 ### armv7l: v0.8.6
